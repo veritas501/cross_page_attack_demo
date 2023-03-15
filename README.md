@@ -1,5 +1,7 @@
 # Cross Page Attack demo
 
+blog: [https://veritas501.github.io/2023_03_07-Cross Cache Attack技术细节分析](https://veritas501.github.io/2023_03_07-Cross%20Cache%20Attack%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82%E5%88%86%E6%9E%90/)
+
 用linux kernel module的形式演示linux kernel中Cross Page Attack的攻击过程。
 
 关于free page的细节，[这篇文章](https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/#how-to-free-a-page)教了很多；
